@@ -1,0 +1,13 @@
+uvicorn
+FastAPI
+streamlit
+requests
+pydantic
+chromadb
+pypdf
+ollama
+python-multipart
+python-docx
+langchain==0.1.17
+langchain_community
+docx2txt
